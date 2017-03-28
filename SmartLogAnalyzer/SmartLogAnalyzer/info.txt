@@ -1,0 +1,11 @@
+﻿Log Parser: 功能強大且威名遠播的記錄分析器
+https://www.microsoft.com/taiwan/technet/iis/expand/LogParser.aspx
+
+Visual Log Parser
+http://visuallogparser.codeplex.com/
+
+Log Parser 2.2
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=24659
+
+图标下载
+http://www.easyicon.net/language.en/1202909-internet_icon.html

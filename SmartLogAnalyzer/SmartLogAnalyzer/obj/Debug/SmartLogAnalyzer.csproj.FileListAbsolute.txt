@@ -1,0 +1,9 @@
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\bin\Debug\SmartLogAnalyzer.exe.config
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\bin\Debug\SmartLogAnalyzer.exe
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\bin\Debug\SmartLogAnalyzer.pdb
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\obj\Debug\SmartLogAnalyzer.csprojResolveAssemblyReference.cache
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\obj\Debug\SmartLogAnalyzer.Properties.Resources.resources
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\obj\Debug\SmartLogAnalyzer.csproj.GenerateResource.Cache
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\obj\Debug\SmartLogAnalyzer.exe
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\obj\Debug\SmartLogAnalyzer.pdb
+F:\OpenSource\SmartLogAnalyzer\SmartLogAnalyzer\SmartLogAnalyzer\obj\Debug\SmartLogAnalyzer.MainForm.resources
