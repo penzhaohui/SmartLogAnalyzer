@@ -74,10 +74,10 @@ namespace DockpanelSample
                 if (parsedStrings.Length != 3)
                     return null;
 
-                if (parsedStrings[0] != typeof(DummyDoc).ToString())
+                if (parsedStrings[0] != typeof(DummyDoc1).ToString())
                     return null;
 
-                DummyDoc dummyDoc = new DummyDoc();
+                DummyDoc1 dummyDoc = new DummyDoc1();
                 if (parsedStrings[1] != string.Empty)
                     dummyDoc.FileName = parsedStrings[1];
                 if (parsedStrings[2] != string.Empty)

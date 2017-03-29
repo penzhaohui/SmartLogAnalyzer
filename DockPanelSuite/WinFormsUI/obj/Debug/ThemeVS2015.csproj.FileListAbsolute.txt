@@ -8,3 +8,4 @@ F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\ThemeVS2015.csproj.Gener
 F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
 F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.pdb
 F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\ThemeVS2015.csprojResolveAssemblyReference.cache
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb

@@ -5,3 +5,4 @@ F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Doc
 F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
 F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
 F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WinFormsUI.csprojResolveAssemblyReference.cache
