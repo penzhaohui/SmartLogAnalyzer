@@ -1,0 +1,7 @@
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb

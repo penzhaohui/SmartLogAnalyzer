@@ -1,0 +1,10 @@
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\bin\Debug\license.txt
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.dll
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.pdb
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\ThemeVS2013.csprojResolveAssemblyReference.cache
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.ThemeVS2012.Resources.resources
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.ThemeVS2012.Strings.resources
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.ThemeVS2013.Resources.resources
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\ThemeVS2013.csproj.GenerateResource.Cache
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.dll
+F:\SmartLogAnalyzer\DockPanelSuite\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2013.pdb
