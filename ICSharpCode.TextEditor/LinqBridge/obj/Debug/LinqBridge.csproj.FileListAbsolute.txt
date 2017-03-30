@@ -1,5 +1,0 @@
-F:\OpenSource\SmartLogAnalyzer\ICSharpCode.TextEditor\LinqBridge\bin\Debug\LinqBridge.dll
-F:\OpenSource\SmartLogAnalyzer\ICSharpCode.TextEditor\LinqBridge\bin\Debug\LinqBridge.pdb
-F:\OpenSource\SmartLogAnalyzer\ICSharpCode.TextEditor\LinqBridge\obj\Debug\LinqBridge.dll
-F:\OpenSource\SmartLogAnalyzer\ICSharpCode.TextEditor\LinqBridge\obj\Debug\LinqBridge.pdb
-F:\OpenSource\SmartLogAnalyzer\ICSharpCode.TextEditor\LinqBridge\obj\Debug\LinqBridge.csprojResolveAssemblyReference.cache
