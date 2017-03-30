@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThemeVS2015", "DockPanelSui
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockpanelSample", "DockPanelSuite\DockpanelSample\DockpanelSample.csproj", "{FBA5E6E0-5B8E-44F8-BFA2-8F988A6B975F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TextEditor", "TextEditor", "{334DECE9-386D-4B89-B6DB-F7E739A72E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICSharpCode.TextEditor", "ICSharpCode.TextEditor\Project\ICSharpCode.TextEditor.csproj", "{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +69,10 @@ Global
 		{FBA5E6E0-5B8E-44F8-BFA2-8F988A6B975F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBA5E6E0-5B8E-44F8-BFA2-8F988A6B975F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBA5E6E0-5B8E-44F8-BFA2-8F988A6B975F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,5 +86,6 @@ Global
 		{245E07F6-10D5-4CFA-B003-0DEB06B223DA} = {75E37164-E0E3-41C7-95B9-A7DACDE1B366}
 		{007D4AC8-948F-4816-86AD-B9D1343672C1} = {75E37164-E0E3-41C7-95B9-A7DACDE1B366}
 		{FBA5E6E0-5B8E-44F8-BFA2-8F988A6B975F} = {75E37164-E0E3-41C7-95B9-A7DACDE1B366}
+		{2D18BE89-D210-49EB-A9DD-2246FBB3DF6D} = {334DECE9-386D-4B89-B6DB-F7E739A72E26}
 	EndGlobalSection
 EndGlobal
